@@ -1,0 +1,15 @@
+npm-debug.log
+.DS_Store
+
+mobileApp/*.js.map
+mobileApp/app/**/*.js
+mobileApp/e2e/**/*.js
+mobileApp/e2e/reports/
+mobileApp/hooks/
+mobileApp/lib/
+mobileApp/node_modules/
+mobileApp/platforms/
+mobileApp/tmp/
+mobileApp/typings/
+mobileApp/report/
+mobileApp/test-results.xml
